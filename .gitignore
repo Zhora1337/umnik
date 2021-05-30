@@ -29,7 +29,6 @@ samples_all/
 *.zip
 extra_data/
 sample_data/
-mocap_output/
 demo.sh
 demo_multi.sh
 mocap_utils/frame_to_video.py
